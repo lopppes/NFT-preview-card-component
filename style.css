@@ -41,7 +41,7 @@ main{
 }
 .img-link::after{
     content: '';
-    background: url(./src/icon-view.svg);
+    background: url(/src/icon-view.svg);
     position: absolute;
     background-color: rgb(20, 24, 24);
     width: 100%;
